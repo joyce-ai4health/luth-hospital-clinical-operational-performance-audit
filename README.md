@@ -153,7 +153,10 @@ luth-hospital-clinical-operational-performance-audit
 ├── docs
 │
 ├── README.md
-
+│
+├── requirements.txt
+│
+└── .gitignore
 ```
 
 ---
@@ -171,4 +174,3 @@ Joyce Etata
 Women Techsters Employment Pathway Mentorship Program
 
 Healthcare Data Science Portfolio Project
-
