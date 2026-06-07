@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optional — comment out if you want to push data)
+# data/raw/*.xlsx
+# data/raw/*.csv
+fix_structure.sh
